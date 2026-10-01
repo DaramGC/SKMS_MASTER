@@ -1,0 +1,6 @@
+{
+  "name": "SKMS MASTER",
+  "description": "SKMS(SK Management System) 핵심 철학과 원리를 마스터하는 실전 객관식 문제풀이 및 모의 테스트 학습 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
